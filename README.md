@@ -1,4 +1,5 @@
 # elixir-macro
+works on 1920x1080
 made a macro for farming inf elixirs in bgsi 
 
 this is a wip but as of now it detects elixirs, auto rolls, and skips
